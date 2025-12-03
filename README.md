@@ -1,3 +1,3 @@
 ﻿# Greeting-Card
 
-![Uploading Screenshot_20251203_173016.png…]()
+<img width="1080" height="2400" alt="Screenshot_20251203_173016" src="https://github.com/user-attachments/assets/6fdfa897-fb65-4cb1-9b25-3a0d58babd91" />
